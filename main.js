@@ -54,7 +54,6 @@ module.exports.loop = function () {
 
 
 
-
 /*
 for (let creep in creeps) {
             creep = Game.creeps[creep];
